@@ -1,0 +1,22 @@
+{
+  "name": "fabrikam",
+  "version": "1.0.0",
+  "description": "This is for Information Management Solutions in web.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AayushiA123/Fabrikam.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AayushiA123/Fabrikam/issues"
+  },
+  "homepage": "https://github.com/AayushiA123/Fabrikam#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
